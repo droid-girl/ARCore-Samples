@@ -25,5 +25,9 @@ Links and description to ARCore samples
 <b> 6. How to attach UI elements to ARCore Node </b>
   * Blog post -> https://creativetech.blog/home/ui-elements-for-arcore-renderable
   * Source code -> https://github.com/Kristina-Simakova/ar_ui_cube
+
+<b> 7. Shapes, textures and materials with ARCore & Sceneform </b>
+  * Blog post -> https://creativetech.blog/home/arcore-shapes-materials
+  * Source code -> https://github.com/Kristina-Simakova/arcore_elements
   
   To be continue ...
