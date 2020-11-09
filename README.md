@@ -29,9 +29,11 @@ Links and description to ARCore samples
 <b> 7. Shapes, textures and materials with ARCore & Sceneform </b>
   * Blog post -> https://creativetech.blog/home/arcore-shapes-materials
   * Source code -> https://github.com/Kristina-Simakova/arcore_elements
+  
 <b> 8. Interactive AR with Scene Viewer and Android Intent </b>
   * Blog post -> https://creativetech.blog/home/scene-viewer-with-android-intent
   * Source code -> https://github.com/Kristina-Simakova/sceneviewer_intent_sample
+  
 <b> 9. ARCore Augmented Faces wrapper without Sceneform </b>
   * Blog post -> https://arcore.how/posts/ar_faces_intro/lab/#0
   * Source code -> https://github.com/Kristina-Simakova/photobooth_codelab_start_project
